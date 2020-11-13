@@ -25,6 +25,10 @@ public class ValidPalindrome {
 
 
     public boolean isPalindrome(String s) {
+        /*
+        执行耗时:3 ms,击败了93.92% 的Java用户
+        内存消耗:38.5 MB,击败了88.64% 的Java用户
+        */
         //双指针法
         //左右开始
         int length = s.length();
