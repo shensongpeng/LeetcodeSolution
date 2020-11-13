@@ -1,5 +1,6 @@
 package ink.songsong.sloution;
 
+
 public class ValidPalindrome {
     public boolean isPalindrome1(String s) {
         //1.filter non number and char
