@@ -1,8 +1,20 @@
 package ink.songsong.sloution;
 
-
+/*
+*
+*
+*
+* */
 public class ValidPalindrome {
+
     public boolean isPalindrome1(String s) {
+      /**
+       * @Description:
+       * @param s
+       * @return: boolean
+       * @author: shensongpeng
+       * @time: 2020/11/13$:17:07
+       */
         //1.filter non number and char
         //2 reverse the string
 
